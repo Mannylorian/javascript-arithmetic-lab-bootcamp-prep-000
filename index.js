@@ -19,21 +19,22 @@ subtract(c, d);
 }
 multiply(e, f);
 
- let g = Math.floor(Math.random() * 1000)
- let h = Math.floor(Math.random() * 1000)
+ let g = Math.floor(Math.random() * 1000);
+ let h = Math.floor(Math.random() * 1000);
  function divide(g, h){
   return g/h;
 }
 divide(g, h);
 
 
- let n = 326
+ let n = Math.floor(Math.random() * 1000);
  function inc(n){
    return n++;
  }
+inc(n);
 
- let i = 712
+ let i = Math.floor(Math.random() * 1000);
  function dec(i){
    return i--;
  }
-
+dec(i);
