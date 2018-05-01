@@ -5,23 +5,23 @@
 }
 add(a, b);
 
- let a = Math.floor(Math.random() * 1000)
- let b = Math.floor(Math.random() * 1000)
- function subtract(a, b){
-  return a-b;
+ let c = Math.floor(Math.random() * 1000)
+ let d = Math.floor(Math.random() * 1000)
+ function subtract(c, d){
+  return c-d;
 }
-subtract(a, b);
+subtract(c, d);
 
- let a = Math.floor(Math.random() * 1000)
- let b = Math.floor(Math.random() * 1000)
- function multiply(a, b){
-  return a*b;
+ let e = Math.floor(Math.random() * 1000)
+ let f = Math.floor(Math.random() * 1000)
+ function multiply(e, f){
+  return e*f;
 }
-multiply(a, b);
+multiply(e, f);
 
- let a = Math.floor(Math.random() * 1000)
- let b = Math.floor(Math.random() * 1000)
- function divide(a, b){
-  return a/b;
+ let g = Math.floor(Math.random() * 1000)
+ let h = Math.floor(Math.random() * 1000)
+ function divide(g, h){
+  return g/h;
 }
-divide(a, b);
+divide(g, h);
