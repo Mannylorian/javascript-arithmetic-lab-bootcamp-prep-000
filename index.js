@@ -1,5 +1,5 @@
-   let a = Math.floor(Math.random() * 1000)
-  let b = Math.floor(Math.random() * 1000)
+   let a = 
+  let b = 
 function add(){
   return a+b;
 }
