@@ -27,12 +27,12 @@ multiply(e, f);
 divide(g, h);
 
 
- let n = Math.floor(Math.random() * 1000)
+ let n = 326
  function inc(n){
    return n++;
  }
 
- let i = Math.floor(Math.random() * 1000)
+ let i = 712
  function dec(i){
    return i--;
  }
