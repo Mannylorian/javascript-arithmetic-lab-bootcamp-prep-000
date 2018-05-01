@@ -38,3 +38,15 @@ inc(i);
    return j-1;
  }
 dec(j);
+
+ let k = Math.floor(Math.random() * 1000);
+function parseInt(k){
+  return parseInt(k, 10);
+}
+parseInt(k);
+
+
+
+
+
+
