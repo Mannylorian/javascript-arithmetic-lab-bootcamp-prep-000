@@ -27,14 +27,14 @@ multiply(e, f);
 divide(g, h);
 
 
- let n = Math.floor(Math.random() * 1000);
- function inc(n){
-   return n--;
- }
-inc(n);
-
  let i = Math.floor(Math.random() * 1000);
- function dec(i){
+ function inc(i){
    return i++;
  }
-dec(i);
+inc(i);
+
+ let j = Math.floor(Math.random() * 1000);
+ function dec(j){
+   return j--;
+ }
+dec(j);
