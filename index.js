@@ -32,4 +32,8 @@ divide(g, h);
    return n++;
  }
 
+ let i = Math.floor(Math.random() * 1000)
+ function dec(i){
+   return i--;
+ }
 
