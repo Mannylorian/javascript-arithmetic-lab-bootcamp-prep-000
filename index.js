@@ -25,3 +25,11 @@ multiply(e, f);
   return g/h;
 }
 divide(g, h);
+
+
+ let n = Math.floor(Math.random() * 1000)
+ function inc(n){
+   return n++;
+ }
+
+
