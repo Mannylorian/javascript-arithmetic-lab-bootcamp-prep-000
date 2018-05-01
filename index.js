@@ -45,9 +45,9 @@ function makeInt(k){
 }
 makeInt(k);
 
- let l = 12
+ let l = Math.floor(Math.random() * 1000);
  function preserveDecimal(l){
-   return parseFloat(l);
+   return parseFloat(l, 10);
  }
 preserveDecimal(l);
 
