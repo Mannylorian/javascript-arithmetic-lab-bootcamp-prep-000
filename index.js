@@ -45,7 +45,11 @@ function makeInt(k){
 }
 makeInt(k);
 
-
+ let l = 12
+ function preserveDecimal(l){
+   return parseFloat(l);
+ }
+preserveDecimal(l);
 
 
 
