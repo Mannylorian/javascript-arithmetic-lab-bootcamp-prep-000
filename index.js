@@ -40,10 +40,10 @@ inc(i);
 dec(j);
 
  let k = Math.floor(Math.random() * 1000);
-function parseInt(k){
+function makeInt(k){
   return parseInt(k, 10);
 }
-parseInt(k);
+makeInt(k);
 
 
 
