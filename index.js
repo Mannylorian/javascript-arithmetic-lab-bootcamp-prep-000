@@ -31,10 +31,10 @@ divide(g, h);
  function inc(i){
    return i++;
  }
-inc(i);
+inc();
 
  let j = Math.floor(Math.random() * 1000);
  function dec(j){
    return j--;
  }
-dec(j);
+dec();
